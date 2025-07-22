@@ -15,7 +15,7 @@ node server.js
 3. Instala dependencias del frontend
 cd ../frontend
 npm install
-npm run dev
+npm start
 
 Funcionalidades principales:
 
@@ -53,18 +53,12 @@ Tipo de mascota más registrado
 Gráfico de barras mostrando la cantidad de mascotas por tipo.
 
 Tecnologías usadas
-React.js + TypeScript:
-Librería de JavaScript para construir interfaces de usuario reactivas, utilizando tipado estático para mayor seguridad y escalabilidad.
-Bootstrap 5:
-Framework de estilos CSS que permite crear interfaces modernas y responsivas con clases predefinidas.
-Chart.js:
-Librería para crear gráficos visuales e interactivos, ideal para reportes de datos.
-Node.js + Express:
-Entorno de ejecución y framework backend que permite manejar rutas y lógica del servidor de manera rápida y sencilla.
-LocalStorage:
-Mecanismo del navegador que almacena datos localmente en el cliente, utilizado para mantener sesiones simples de login.
-CRA (Create React App):
-Es una herramienta de línea de comandos que facilita la creación rápida de proyectos React sin necesidad de configuración.
+React.js + TypeScript: Librería de JavaScript para construir interfaces de usuario reactivas, utilizando tipado estático para mayor seguridad y escalabilidad.
+Bootstrap 5: Framework de estilos CSS que permite crear interfaces modernas y responsivas con clases predefinidas.
+Chart.js: Librería para crear gráficos visuales e interactivos, ideal para reportes de datos.
+Node.js + Express: Entorno de ejecución y framework backend que permite manejar rutas y lógica del servidor de manera rápida y sencilla.
+LocalStorage: Mecanismo del navegador que almacena datos localmente en el cliente, utilizado para mantener sesiones simples de login.
+CRA (Create React App): Es una herramienta de línea de comandos que facilita la creación rápida de proyectos React sin necesidad de configuración.
 
 ✍️ Autor
 Rossmary V.
